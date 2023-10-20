@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/manvel-khnkoyan/jpv#readme",
   "devDependencies": {
-    "tap": "^14.10.8"
+    "tap": "^18.5.2"
   }
 }
